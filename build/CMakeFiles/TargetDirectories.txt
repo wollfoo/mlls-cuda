@@ -1,0 +1,4 @@
+/apps/mlls-cuda/build/CMakeFiles/xmrig-cu.dir
+/apps/mlls-cuda/build/CMakeFiles/mlls-cuda.dir
+/apps/mlls-cuda/build/CMakeFiles/edit_cache.dir
+/apps/mlls-cuda/build/CMakeFiles/rebuild_cache.dir
